@@ -1,6 +1,12 @@
 no need to add data
 fill the form
 
+<<<<<<< HEAD
 checking for conflicts.
 
 local change
+=======
+checking for conflicts
+
+remote change
+>>>>>>> 59dd62cf8a04127c8a80ff97c1cc96b18d713259
